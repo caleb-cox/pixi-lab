@@ -6,7 +6,8 @@
   "author": "calebcox725",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --hot --inline"
+    "start": "webpack-dev-server --hot --inline",
+    "build": "webpack"
   },
   "dependencies": {
     "babel-core": "^6.25.0",
