@@ -1,2 +1,2 @@
-# react-boilerplate
-Personal boilerplate for small React/Redux projects
+# pixi-lab
+goofin' around with pixi.js
